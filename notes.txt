@@ -141,3 +141,14 @@ numpy (numerical python)
 
 //import
 import numpy as np
+
+matplotlib
+**********
+  Line graph
+  Bar chart
+  Pie chart
+  Scatter plot
+
+  pip install matplotlib
+
+  matplotlib.__version__
