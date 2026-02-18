@@ -24,18 +24,18 @@ model.fit(X_train,y_train)
 y_pred = model.predict(X_test)
 #print("Accuracy :",accuracy_score(y_test,y_pred))
 #print("Confusion Matrix :",confusion_matrix(y_test,y_pred))
-#print("Classification Report :",classification_report(y_test,y_pred))
+print("Classification Report :",classification_report(y_test,y_pred))
 #sns.heatmap(confusion_matrix(y_test,y_pred),annot=True)
 #plt.title("confusion_matrix")
 #plt.show()
 
 
-new_customer = np.array([[4,65,0]])
-prediction = model.predict(new_customer)
-if prediction[0] == 1:
-    print("Churn")
-else:
-    print("No")
+# new_customer = np.array([[4,65,0]])
+# prediction = model.predict(new_customer)
+# if prediction[0] == 1:
+#     print("Churn")
+# else:
+#     print("No")
 
 
 

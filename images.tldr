@@ -84,6 +84,14 @@
 			"typeName": "pointer"
 		},
 		{
+			"x": 32.72489802378105,
+			"y": -790.2847224783643,
+			"z": 0.7603858520900322,
+			"meta": {},
+			"id": "camera:page:PjLMqCSMjeHYNHLOYZdm2",
+			"typeName": "camera"
+		},
+		{
 			"x": 155.89991439118575,
 			"y": 618.2694994660728,
 			"rotation": 0,
@@ -198,9 +206,9 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 256.056956531171,
-			"y": -412.28975118528865,
-			"z": 0.7185913050205565,
+			"x": 551.2069851782277,
+			"y": -1074.8691504362425,
+			"z": 0.3488606069556951,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -245,10 +253,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:aIaBoPNhIxiLqzkWxAkd4"
-			],
-			"hoveredShapeId": "shape:aIaBoPNhIxiLqzkWxAkd4",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -391,6 +397,13 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "page:PjLMqCSMjeHYNHLOYZdm2",
+			"name": "Page 2",
+			"index": "a2Wmz2U8",
+			"typeName": "page"
+		},
+		{
 			"x": 288.76442318034725,
 			"y": 722.9561702475312,
 			"rotation": 0,
@@ -476,6 +489,192 @@
 			},
 			"parentId": "page:page",
 			"index": "a6XsYB5V",
+			"typeName": "shape"
+		},
+		{
+			"x": 144.9739532470703,
+			"y": 107.29817199707031,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5q76meQRoNDx_G4GWuF4w",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 299.9713439941406,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "LinearRegression"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "LogisticRegression"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "KNN"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "SVM"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "DECISION TREE"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Unsupervised"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "KMeans"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hierachical Clus"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "PCA"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Rainforcement Learning"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Rewards / Punishments"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:PjLMqCSMjeHYNHLOYZdm2",
+			"index": "a1GRIFHV",
 			"typeName": "shape"
 		},
 		{
@@ -987,13 +1186,12 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:color": "light-green"
+				"tldraw:geo": "diamond"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -1003,8 +1201,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1177.5,
-				"h": 655
+				"w": 940,
+				"h": 497.5
 			},
 			"insets": [
 				false,
@@ -1029,8 +1227,45 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:page",
+			"currentPageId": "page:PjLMqCSMjeHYNHLOYZdm2",
 			"typeName": "instance"
+		},
+		{
+			"x": 335.04685460857684,
+			"y": 968.9820323724357,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:S7he3E-lG8WbAKSz-CHmn",
+			"type": "geo",
+			"props": {
+				"w": 127.3895800516957,
+				"h": 146.63264767565488,
+				"geo": "diamond",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:PjLMqCSMjeHYNHLOYZdm2",
+			"index": "a2CWxPZV",
+			"typeName": "shape"
 		},
 		{
 			"x": 275.4553110479846,
@@ -1073,6 +1308,21 @@
 			"parentId": "page:page",
 			"index": "aJygMkzl",
 			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:S7he3E-lG8WbAKSz-CHmn"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:PjLMqCSMjeHYNHLOYZdm2",
+			"pageId": "page:PjLMqCSMjeHYNHLOYZdm2",
+			"typeName": "instance_page_state"
 		},
 		{
 			"x": 280.44736944167295,
