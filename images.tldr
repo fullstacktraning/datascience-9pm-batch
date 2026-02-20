@@ -1628,12 +1628,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:CYapF_AarSy5pvMFu8d4M",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:CYapF_AarSy5pvMFu8d4M"
-			],
-			"hoveredShapeId": "shape:CYapF_AarSy5pvMFu8d4M",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -2399,6 +2397,48 @@
 			},
 			"parentId": "page:W0Poc0iq_d8tqGUMD7iVb",
 			"index": "aCqj6fKV",
+			"typeName": "shape"
+		},
+		{
+			"x": 765.5172337366357,
+			"y": 2189.544971327703,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:o1OMjzpnPeF5sj_vr8-Xx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 121.8046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      > 550"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:pjxejT2Zle-0dZ3K95plm",
+			"index": "aS2O5zXG",
 			"typeName": "shape"
 		},
 		{
@@ -3604,7 +3644,7 @@
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 72.28125,
+				"w": 70.796875,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -3623,7 +3663,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "> 50k"
+									"text": "> 55k"
 								}
 							]
 						}
@@ -4756,10 +4796,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:o1OMjzpnPeF5sj_vr8-Xx",
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
-			"hoveredShapeId": "shape:KywHTz6-MGbM9WQMotFzY",
+			"selectedShapeIds": [
+				"shape:o1OMjzpnPeF5sj_vr8-Xx"
+			],
+			"hoveredShapeId": "shape:o1OMjzpnPeF5sj_vr8-Xx",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -5591,7 +5633,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:W0Poc0iq_d8tqGUMD7iVb",
+			"currentPageId": "page:pjxejT2Zle-0dZ3K95plm",
 			"typeName": "instance"
 		},
 		{
@@ -6168,9 +6210,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 958.89447310922,
-			"y": -635.2074863923474,
-			"z": 0.1540571553842154,
+			"x": -259.1734837366357,
+			"y": -1304.0137213277033,
+			"z": 0.5,
 			"meta": {},
 			"id": "camera:page:pjxejT2Zle-0dZ3K95plm",
 			"typeName": "camera"
