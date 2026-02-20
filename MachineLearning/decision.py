@@ -10,7 +10,7 @@ X = np.array([[25,40000],
 y = np.array([0,1,1,0,1])
 model = DecisionTreeClassifier()
 model.fit(X,y)
-prediction = model.predict([[35,500000]])
+prediction = model.predict([[35,50000]])
 print(prediction)
 
 # plt.figure(figsize=(10,6))
