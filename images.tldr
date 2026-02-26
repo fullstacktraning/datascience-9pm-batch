@@ -490,12 +490,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:_w1XssKKkdHQrzf4vwuL8",
+			"editingShapeId": "shape:dGWZZMhgYelBiL6-HpQoF",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:_w1XssKKkdHQrzf4vwuL8"
+				"shape:dGWZZMhgYelBiL6-HpQoF"
 			],
-			"hoveredShapeId": "shape:_w1XssKKkdHQrzf4vwuL8",
+			"hoveredShapeId": "shape:dGWZZMhgYelBiL6-HpQoF",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -564,6 +564,96 @@
 			},
 			"parentId": "page:J5YUTKlWZtpwUbM6PmyhI",
 			"index": "aJDN2EDV",
+			"typeName": "shape"
+		},
+		{
+			"x": 83.94140625,
+			"y": 362.0214729309082,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Lm8sSy9zCyKf3U9rqKI3o",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 386.375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "30,40,50,20,70,80,90,100"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "[20,30,40,50]. [60,70,80,90,100]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1                        2"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "low                   high"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:msnnsE5RKTS1ZshxADGLk",
+			"index": "a8QD8e9V",
 			"typeName": "shape"
 		},
 		{
@@ -1624,8 +1714,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 71.48828125,
+			"y": -276.5566291809082,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:msnnsE5RKTS1ZshxADGLk",
@@ -4501,6 +4591,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 53.90234375,
+			"y": 376.4706916809082,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dGWZZMhgYelBiL6-HpQoF",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 33.328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "X="
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:msnnsE5RKTS1ZshxADGLk",
+			"index": "a9nXl7jV",
+			"typeName": "shape"
+		},
+		{
 			"x": 252.55532645296168,
 			"y": 422.7050757485413,
 			"rotation": 0,
@@ -5916,9 +6048,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -5932,8 +6062,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 852.5,
-				"h": 420
+				"w": 1122,
+				"h": 549
 			},
 			"insets": [
 				false,
@@ -5948,7 +6078,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2.4000000953674316,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
