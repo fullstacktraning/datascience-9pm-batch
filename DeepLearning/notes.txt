@@ -1,0 +1,8 @@
+Deep Learning
+*************
+    model trained on huge data
+    model able to understand complex pattrens(images)
+    Ex.
+            face recognisation
+            self driving cars
+            
